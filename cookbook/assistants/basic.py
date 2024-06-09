@@ -7,4 +7,4 @@ assistant = Assistant(
     instructions=["Recipes should be under 5 ingredients"],
 )
 # -*- Print a response to the cli
-assistant.print_response("Share a breakfast recipe.", markdown=True)
+assistant.print_response("Share a vegan breakfast recipe.", markdown=True)
